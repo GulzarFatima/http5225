@@ -12,11 +12,11 @@ echo "<h1> My first PHP script! </h1>";
 <!-- Learning VARIABLE -->
 <?php
 $txt = "Hello World!";
-$x = 5;
-$y = 4;
 $fname = "Gary";
 $lname = "Smith";
+echo "my name is: " . $fname;
 
+?>
 
 </body>
 </html>
